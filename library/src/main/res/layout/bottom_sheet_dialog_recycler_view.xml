@@ -1,0 +1,40 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#f8f8f8"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="19dp"
+        android:layout_marginTop="13dp"
+        android:text="送好友10元红包，好友下单我拿奖励"
+        android:textColor="#666666"
+        android:textSize="13sp"/>
+
+    <android.support.v7.widget.RecyclerView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/bottom_sheet_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginTop="15dp"
+        android:background="#e5e5e5"/>
+
+
+    <TextView
+        android:id="@+id/cancel_action"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:background="#ffffff"
+        android:gravity="center"
+        android:text="取消分享"
+        android:textColor="#353535"
+        android:textSize="17sp"/>
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="fbutton_default_color">#3eadeb</color>
+    <color name="fbutton_default_shadow_color">#ff3493c8</color>
+    <color name="deep_gray">#9d9d9d</color>
+    <color name="dark_gray">#FFCCCCCC</color>
+    <color name="white">#FFFFFF</color>
+</resources>
