@@ -1,12 +1,12 @@
 package com.smartstudy.uskid
 
-import android.app.Application
+import android.support.multidex.MultiDexApplication
 
 /**
  * @author 赵珊珊
  * @date 2017/12/19
  */
-class MyApplication : Application() {
+class MyApplication : MultiDexApplication() {
 
     var mContext: MyApplication? = null
 
