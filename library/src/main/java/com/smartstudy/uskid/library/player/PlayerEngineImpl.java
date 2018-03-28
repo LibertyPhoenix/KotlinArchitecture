@@ -21,6 +21,9 @@ import java.util.List;
 
 /**
  * 音视频播放
+ *
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public class PlayerEngineImpl implements PlayerEngine, Downloader.DownloadListener {
 

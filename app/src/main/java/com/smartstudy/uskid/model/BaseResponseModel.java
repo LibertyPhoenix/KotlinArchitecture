@@ -4,7 +4,8 @@ package com.smartstudy.uskid.model;
 /**
  * 返回值的基类
  *
- * @param <T>
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public class BaseResponseModel<T> {
     private String message;

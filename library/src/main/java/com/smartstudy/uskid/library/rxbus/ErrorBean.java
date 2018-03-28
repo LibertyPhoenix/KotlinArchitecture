@@ -1,5 +1,9 @@
 package com.smartstudy.uskid.library.rxbus;
 
+/**
+ * @author 王宏杰
+ * @date 2018/3/23
+ */
 public class ErrorBean {
  
 	public ErrorBean(String code, String desc) {

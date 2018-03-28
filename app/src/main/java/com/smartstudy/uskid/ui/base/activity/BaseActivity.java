@@ -13,8 +13,8 @@ import io.reactivex.disposables.Disposable;
 
 
 /**
- * @author 赵珊珊
- * @date 2017/12/19
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public abstract class BaseActivity extends AppCompatActivity {
 

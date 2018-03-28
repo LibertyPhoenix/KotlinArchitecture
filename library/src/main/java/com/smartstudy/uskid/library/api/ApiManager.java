@@ -15,8 +15,8 @@ import okhttp3.logging.HttpLoggingInterceptor;
 import retrofit2.Retrofit;
 
 /**
- * @author 赵珊珊
- * @date 2017/12/6
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public class ApiManager {
 

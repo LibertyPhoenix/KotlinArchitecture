@@ -17,7 +17,9 @@ import java.net.URL;
 
 /**
  * 缓存音视频
- * @author 赵珊珊
+ *
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public class Downloader {
     private static final String DIR_PATH = Environment.getExternalStorageDirectory() + "/" + ConstUtils.APP_ROOT_DIR; // 下载目录

@@ -9,7 +9,10 @@ import com.smartstudy.uskid.adapter.HomePagerAdapter
 import com.smartstudy.uskid.ui.base.activity.BaseActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
-
+/**
+ * @author 王宏杰
+ * @date 2018/3/23
+ */
 class MainActivity : BaseActivity() {
     var mExitTime: Long = 0
     override fun getLayout(): Int {

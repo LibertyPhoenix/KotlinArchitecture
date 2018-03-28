@@ -4,8 +4,8 @@ package com.smartstudy.uskid.library.player;
 import com.smartstudy.uskid.library.rxbus.RxBusHelper;
 
 /**
- * @author 赵珊珊
- * @date 15/1/13
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public class GlobalPlayerEngineListener implements PlayerEngineListener {
 

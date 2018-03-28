@@ -14,8 +14,8 @@ import android.widget.ImageView
 
 
 /**
- * @author 赵珊珊
- * @date 2017/12/19
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 class HomePagerAdapter(fm: FragmentManager?, val context: Context) : FragmentPagerAdapter(fm) {
     var titles = Arrays.asList("发现", "课前", "课后", "我")

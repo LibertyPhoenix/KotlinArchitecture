@@ -4,6 +4,11 @@ import android.content.Context;
 import android.support.annotation.LayoutRes;
 import android.view.View;
 
+/**
+ * @author 王宏杰
+ * @date 2018/3/23
+ */
+
 public interface AdapterItem<T> {
   @LayoutRes int getLayoutResId(int viewType);//获取布局文件的id
 

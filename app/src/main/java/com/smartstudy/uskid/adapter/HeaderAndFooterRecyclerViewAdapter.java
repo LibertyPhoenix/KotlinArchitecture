@@ -13,6 +13,9 @@ import java.util.List;
 /**
  * 带Header和Footer的Adapter
  * http://blog.sqisland.com/2014/12/recyclerview-grid-with-header.html
+ *
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public abstract class HeaderAndFooterRecyclerViewAdapter<T> extends BaseRecyclerViewAdapter<T> {
 

@@ -26,8 +26,9 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 
 
 /**
- * @author 赵珊珊
- * @date 2017/12/6
+ * @author 王宏杰
+ * @date 2018/3/23
+ *
  * 错误处理的拦截器
  */
 public class RxErrorHandlingCallAdapterFactory extends CallAdapter.Factory {

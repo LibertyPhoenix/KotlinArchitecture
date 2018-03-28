@@ -9,9 +9,8 @@ import com.smartstudy.uskid.library.kotlinExt.setupActionBar
 import kotlinx.android.synthetic.main.toolbar.*
 
 /**
- * @author 赵珊珊
- * *
- * @date 2017/12/19
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 
 abstract class BaseToolbarActivity : BaseActivity() {

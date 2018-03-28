@@ -10,6 +10,9 @@ import java.util.List;
 
 /**
  * RecyclerViewAdapter基类
+ *
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public abstract class BaseRecyclerViewAdapter<T> extends RecyclerView.Adapter {
     protected List<T> mList;

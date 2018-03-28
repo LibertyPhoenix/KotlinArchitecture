@@ -7,7 +7,8 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 
 /**
- * @author 赵珊珊
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public class RetrofitException extends RuntimeException {
     public static RetrofitException httpError(String url, Response response, Retrofit retrofit) {

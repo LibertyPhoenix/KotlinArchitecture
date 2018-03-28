@@ -2,9 +2,8 @@ package com.smartstudy.uskid.library.player;
 
 
 /**
- *
- * @author 赵珊珊
- * @date 15/1/24
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public class AudioStateEvent {
 

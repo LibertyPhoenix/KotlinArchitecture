@@ -3,6 +3,9 @@ package com.smartstudy.uskid.library.player;
 
 /**
  * 控制播放状态
+ *
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public interface PlayerEngine {
     //状态

@@ -10,8 +10,8 @@ import retrofit2.Converter;
 import retrofit2.Retrofit;
 
 /**
- * @author 赵珊珊
- * @date 2017/12/6
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public class QualifiedTypeConverterFactory extends Converter.Factory {
     private final Converter.Factory jsonFactory;

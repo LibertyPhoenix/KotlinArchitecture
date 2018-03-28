@@ -16,7 +16,8 @@ import butterknife.BindView;
 /**
  * 加载列表数据的Fragment
  *
- * @param <T>
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public abstract class BaseListLoadDataFragment<T> extends BaseLoadDataFragment<List<T>> implements BaseRecyclerViewAdapter.OnItemClickListener {
     @BindView(R.id.recyclerview)

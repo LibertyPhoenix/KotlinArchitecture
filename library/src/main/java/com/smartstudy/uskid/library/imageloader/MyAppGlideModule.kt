@@ -4,8 +4,8 @@ import com.bumptech.glide.annotation.GlideModule
 import com.bumptech.glide.module.AppGlideModule
 
 /**
- * @author 赵珊珊
- * @date 2017/12/6
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 @GlideModule
 class MyAppGlideModule : AppGlideModule() {

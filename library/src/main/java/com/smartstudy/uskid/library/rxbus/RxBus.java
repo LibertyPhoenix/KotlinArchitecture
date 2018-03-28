@@ -6,7 +6,8 @@ import io.reactivex.processors.PublishProcessor;
 import io.reactivex.subscribers.SerializedSubscriber;
 
 /**
- * created by 赵珊珊
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public class RxBus {
     private final FlowableProcessor<Object> mBus;

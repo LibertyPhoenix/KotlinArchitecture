@@ -23,8 +23,8 @@ import io.reactivex.functions.Function;
 /**
  * 加载数据的Fragment
  *
- * @author 赵珊珊
- * @param <T>
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public abstract class BaseLoadDataFragment<T> extends BaseFragment implements SwipeRefreshLayout.OnRefreshListener {
 

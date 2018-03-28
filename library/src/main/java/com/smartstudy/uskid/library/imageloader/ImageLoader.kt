@@ -3,8 +3,8 @@ package com.smartstudy.uskid.library.imageloader
 import android.content.Context
 
 /**
- * @author 赵珊珊
- * @date 2017/12/6
+ * @author 王宏杰
+ * @date 2018/3/23
  *
  * 图片加载的工具类
  */

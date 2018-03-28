@@ -3,8 +3,8 @@ package com.smartstudy.uskid.library.api;
 import com.google.gson.annotations.SerializedName;
 
 /**
- * @author 赵珊珊
- * @date 2017/12/19
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 
 public class ApiError extends RuntimeException {

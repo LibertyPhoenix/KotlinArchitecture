@@ -3,6 +3,11 @@ package com.smartstudy.uskid.library.player;
 import android.os.Parcel;
 import android.os.Parcelable;
 
+/**
+ * @author 王宏杰
+ * @date 2018/3/23
+ */
+
 public class MediaModel implements Parcelable {
     protected String mAudioUrl;
     protected String mVideoUrl;

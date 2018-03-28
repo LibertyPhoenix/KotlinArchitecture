@@ -4,8 +4,8 @@ import com.smartstudy.uskid.R
 import com.smartstudy.uskid.ui.base.fragment.BaseFragment
 
 /**
- * @author 赵珊珊
- * @date 2017/12/19
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 class HomeFragment : BaseFragment() {
     override fun getLayout(): Int {

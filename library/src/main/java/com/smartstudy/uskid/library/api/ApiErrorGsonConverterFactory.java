@@ -15,8 +15,11 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
  * Api异常处理处理
- * @author 赵珊珊
+ *
+ * @author 王宏杰
+ * @date 2018/3/23
  */
+
 public class ApiErrorGsonConverterFactory extends Converter.Factory {
 
     private final Converter.Factory mDelegateFactory;

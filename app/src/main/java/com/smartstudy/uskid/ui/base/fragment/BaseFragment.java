@@ -13,9 +13,8 @@ import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.disposables.Disposable;
 
 /**
- * @author malinkang
- *         <p>
- *         基类Fragment
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 
 public abstract class BaseFragment extends Fragment {

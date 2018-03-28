@@ -13,7 +13,8 @@ import java.util.List;
 /**
  * 分页加载的Fragment
  *
- * @author 赵珊珊
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 
 public abstract class BasePageListLoadDataFragment<T> extends BaseListLoadDataFragment<T> {

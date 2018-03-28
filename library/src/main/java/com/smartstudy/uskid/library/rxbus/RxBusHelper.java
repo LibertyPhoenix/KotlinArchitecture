@@ -5,7 +5,8 @@ import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * created by 赵珊珊
+ * @author 王宏杰
+ * @date 2018/3/23
  */
 public class RxBusHelper {
     /**

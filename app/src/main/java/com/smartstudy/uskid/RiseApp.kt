@@ -4,13 +4,13 @@ import android.support.multidex.MultiDexApplication
 
 /**
  * @author 王宏杰
- * @date 2017/12/19
+ * @date 2018/3/23
  */
-class MyApplication : MultiDexApplication() {
+class RiseApp : MultiDexApplication() {
 
-    var mContext: MyApplication? = null
+    var mContext: RiseApp? = null
 
-    fun getInstance(): MyApplication {
+    fun getInstance(): RiseApp {
         return mContext!!
     }
 
